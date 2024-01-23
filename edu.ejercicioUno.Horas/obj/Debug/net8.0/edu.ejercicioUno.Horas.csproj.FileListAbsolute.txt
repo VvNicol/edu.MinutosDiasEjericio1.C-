@@ -1,0 +1,14 @@
+D:\VisualStudioProyectos\Proyectos\edu.ejercicioUno.Horas\bin\Debug\net8.0\edu.ejercicioUno.Horas.exe
+D:\VisualStudioProyectos\Proyectos\edu.ejercicioUno.Horas\bin\Debug\net8.0\edu.ejercicioUno.Horas.deps.json
+D:\VisualStudioProyectos\Proyectos\edu.ejercicioUno.Horas\bin\Debug\net8.0\edu.ejercicioUno.Horas.runtimeconfig.json
+D:\VisualStudioProyectos\Proyectos\edu.ejercicioUno.Horas\bin\Debug\net8.0\edu.ejercicioUno.Horas.dll
+D:\VisualStudioProyectos\Proyectos\edu.ejercicioUno.Horas\bin\Debug\net8.0\edu.ejercicioUno.Horas.pdb
+D:\VisualStudioProyectos\Proyectos\edu.ejercicioUno.Horas\obj\Debug\net8.0\edu.ejercicioUno.Horas.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProyectos\Proyectos\edu.ejercicioUno.Horas\obj\Debug\net8.0\edu.ejercicioUno.Horas.AssemblyInfoInputs.cache
+D:\VisualStudioProyectos\Proyectos\edu.ejercicioUno.Horas\obj\Debug\net8.0\edu.ejercicioUno.Horas.AssemblyInfo.cs
+D:\VisualStudioProyectos\Proyectos\edu.ejercicioUno.Horas\obj\Debug\net8.0\edu.ejercicioUno.Horas.csproj.CoreCompileInputs.cache
+D:\VisualStudioProyectos\Proyectos\edu.ejercicioUno.Horas\obj\Debug\net8.0\edu.ejercicioUno.Horas.dll
+D:\VisualStudioProyectos\Proyectos\edu.ejercicioUno.Horas\obj\Debug\net8.0\refint\edu.ejercicioUno.Horas.dll
+D:\VisualStudioProyectos\Proyectos\edu.ejercicioUno.Horas\obj\Debug\net8.0\edu.ejercicioUno.Horas.pdb
+D:\VisualStudioProyectos\Proyectos\edu.ejercicioUno.Horas\obj\Debug\net8.0\edu.ejercicioUno.Horas.genruntimeconfig.cache
+D:\VisualStudioProyectos\Proyectos\edu.ejercicioUno.Horas\obj\Debug\net8.0\ref\edu.ejercicioUno.Horas.dll
